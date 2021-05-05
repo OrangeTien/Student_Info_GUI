@@ -24,7 +24,7 @@ window["bg"]="Coral" # 珊瑚色 Coral
 
 # 2.设置最上面的图片,这个不是很好弄，先是要弄一张合适的图片，要去修改分辨率
 # 905*115比较好
-top_image = PhotoImage(file="mai2.png")
+top_image = PhotoImage(file="imgs/mai2.png")
 top_label = Label(window,image=top_image)
 top_label.place(x=3,y=3)
 
