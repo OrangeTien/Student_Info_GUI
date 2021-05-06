@@ -1,6 +1,7 @@
 # Student_Info_GUI
  学生管理系统图形化界面演示
 
+https://img.shields.io/badge/<MUST>-<DataBase>-<orange>
 
 
 ### Background
